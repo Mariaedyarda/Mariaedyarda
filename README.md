@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mariaedyarda
 - 👀 Estou interessado em aprender 
 - 🌱 Atualmente estou aprendendo 
-- 💞️ Estou procurando colaborar em ser boq aluna 
-- 📫 How to reach me aqui ué
+- 💞️ Estou procurando colaborar em ser boa aluna 
+- 📫 How to reach me no Mendes.carvalho.maria@escola.pr.gov.br
 
 <!---
 Mariaedyarda/Mariaedyarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
